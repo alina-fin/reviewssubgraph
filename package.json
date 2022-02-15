@@ -1,0 +1,13 @@
+{
+    "name": "reviewssubgraph",
+    "description": "GraphQL POC Reviews Subgraph",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "@apollo/subgraph": "^0.2.0",
+        "apollo-server-lambda": "^3.6.2",
+        "graphql": "^16.3.0"
+    },
+    "devDependencies": {},
+    "scripts": {}
+}
